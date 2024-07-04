@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amitsutradhar02
+- 👋 Hi, I’m Amit Sutradhar 
 - 🪄 I’m interested in Cyber Security, AI and NLP
 - 🧠 I’m currently learning ML, Python and Java
 - 🤝 I’m looking to collaborate on ML projects
