@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @amitsutradhar02
-- 👀 I’m interested in Cyber Security, AI and NLP
-- 🌱 I’m currently learning ML, Python and Java
-- 💞️ I’m looking to collaborate on ML projects
-- 📫 How to reach me: [Gmail ID: amitsutradhar002@gmail.com}
+- 🪄 I’m interested in Cyber Security, AI and NLP
+- 🧠 I’m currently learning ML, Python and Java
+- 🤝 I’m looking to collaborate on ML projects
+- ✉️ How to reach me: [Gmail ID: amitsutradhar002@gmail.com}
 - ⚡ Fun fact: I love to eat 
 
 <!---
