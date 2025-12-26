@@ -1,5 +1,51 @@
-# 💫 About Me:
-👋 Hi, I’m Amit Sutradhar<br>I’m a CSE student currently working on projects that blend AI, Machine Learning, Cybersecurity, and Web Development. Right now, I’m actively learning Cryptography and Network Security, while building and experimenting with real-world systems using Flask, databases, and ML models.<br><br>🤝 Open to Collaboration<br>I’m looking to collaborate with Web Developers, AI Engineers, and ML enthusiasts on meaningful projects, research, or startups—especially in areas like secure systems, intelligent applications, and data-driven solutions.<br><br>💬 Ask me about<br><br>AI & Machine Learning<br><br>Cybersecurity basics (Cryptography, Network Security)<br><br>Databases & Backend Development<br><br>Research projects & student collaborations<br><br>✨ Fun facts<br><br>I enjoy turning complex concepts into simple explanations<br><br>I love working late at night when everything is quiet 🌙<br><br>I’m equally comfortable with code and design (Photoshop & Illustrator)<br><br>I enjoy nature, especially green, sunny places 🌿
+# 👋 Hi, I'm Amit Sutradhar
+
+🎓 **Computer Science & Engineering (CSE) Student**  
+🔍 Exploring the intersection of **AI, Machine Learning, Cybersecurity, and Web Development**
+
+---
+
+## 🚀 What I'm Currently Working On
+- Building **AI & ML-driven applications**
+- Developing **secure backend systems** using Flask and databases
+- Learning and implementing **Cryptography** and **Network Security**
+- Exploring **cybersecurity-focused research and real-world use cases**
+
+---
+
+## 🤝 Looking to Collaborate With
+I’m open to collaborating with:
+- 🌐 **Web Developers**
+- 🤖 **AI Engineers**
+- 📊 **Machine Learning Enthusiasts**
+- 🔐 **Cybersecurity Learners & Researchers**
+
+If you’re interested in building something impactful together, feel free to reach out!
+
+---
+
+## 💬 Ask Me About
+- Artificial Intelligence & Machine Learning  
+- Cryptography & Network Security  
+- Backend Development (Flask, Databases)  
+- Research projects & student collaborations  
+
+---
+
+## 🛠️ Skills & Tools
+- **Programming:** Python, SQL  
+- **AI/ML:** Data Analysis, Model Training, Evaluation  
+- **Backend:** Flask, SQLite, MySQL  
+- **Security:** Cryptography Basics, Network Security  
+- **Design:** Adobe Photoshop, Adobe Illustrator  
+
+---
+
+## ✨ Fun Facts
+- I enjoy breaking down **complex topics into simple explanations**
+- I’m most productive late at night 🌙
+- I balance **code and creativity** (design + development)
+- I love spending time in **green, sunny natural environments** 🌿
 
 
 ## 🌐 Socials:
