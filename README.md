@@ -35,7 +35,7 @@ If you’re interested in building something impactful together, feel free to re
 ## 🛠️ Skills & Tools
 - **Programming:** Python, SQL  
 - **AI/ML:** Data Analysis, Model Training, Evaluation  
-- **Backend:** Flask, SQLite, MySQL  
+- **Backend:** Django, PHP, React.js, Flask, SQLite, MySQL  
 - **Security:** Cryptography Basics, Network Security  
 - **Design:** Adobe Photoshop, Adobe Illustrator  
 
